@@ -1,3 +1,6 @@
+# NewsNyangi
+![프로젝트 스크린샷](./image.png)
+
 # Hada News Scraper and Ghost Poster
 
 이 프로젝트는 [Hada News](https://news.hada.io/)에서 최신 기술 뉴스를 스크래핑하고, OpenAI의 GPT 모델을 사용하여 트렌드를 요약한 후, Ghost CMS에 자동으로 포스팅하는 파이썬 스크립트입니다.
